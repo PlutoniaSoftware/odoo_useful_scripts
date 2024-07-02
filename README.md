@@ -1,0 +1,1 @@
+# odoo_useful_scripts
